@@ -1,0 +1,12 @@
+1)ls - ls command is used to display files of current working directory.
+2)cd <file_name> - cd command is used to change the current directory.
+3)cd .. - cd .. command is used for to go previous directory. 
+4)pwd - pwd command is used to view current directory path.
+5)mkdir <file_name>- "mkdir" command is used for create new directory.
+6)rm - "rm" command is used for delete directory or files.
+7)touch - "touch" command is used to create new empty files such as .txt , .sql etc.
+8)cat <file_name> - These command is used for view the content of files.
+9)cat >> <file_name> - These command is used for write content in files.
+10)cp - cp command is used for copy the file or directory.
+11)mv - "mv" command is used for move file or directory from one location to another location.
+         also "mv" command is used for rename the file name.
